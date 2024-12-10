@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "A.Krafti",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A.Krafti is a web based application which is developed using bootstrap.",
+    url: "https://anitagit11.github.io/A.Krafti/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Love Calculator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+     "A Love Calculator for finding love between a couple. Building using HTMK, CSS and javascript.",
+    url: "https://anitagit11.github.io/Love-Calculator/",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://anitagit11.github.io/Resume-repo/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Amazon Website Clone",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A basic Amazon E-commerce site clone using HTML and CSS.",
+    url: "https://anitagit11.github.io/Amazon-site/",
   },
 ];
 
